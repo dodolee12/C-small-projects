@@ -1,0 +1,5 @@
+<map id="8puzzle.h" name="8puzzle.h">
+<area shape="rect" id="node1" title=" " alt="" coords="82,5,166,32"/>
+<area shape="rect" id="node2" href="$8puzzle_8cpp.html" title=" " alt="" coords="5,80,104,107"/>
+<area shape="rect" id="node3" href="$puzzlesolver_8cpp.html" title=" " alt="" coords="128,80,259,107"/>
+</map>
