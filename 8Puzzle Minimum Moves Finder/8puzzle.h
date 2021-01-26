@@ -1,4 +1,3 @@
-//Edward Lee edl6zpg 11/16/2020 8puzzle.h
 
 #ifndef PUZZLE_H
 #define PUZZLE_H

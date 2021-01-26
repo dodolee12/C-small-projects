@@ -1,4 +1,3 @@
-//Edward Lee edl6zpg 11/7/2020 HuffmanNode.cpp
 
 
 #include "HuffmanNode.h"

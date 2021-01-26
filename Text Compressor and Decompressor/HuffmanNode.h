@@ -1,4 +1,3 @@
-//Edward Lee edl6zpg 11/7/2020 HuffmanNode.h
 
 #ifndef HUFFMANNODE_H
 #define HUFFMANNODE_H

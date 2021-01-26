@@ -1,4 +1,3 @@
-#Edward Lee edl6zpg Makefile 11/8/2020
 
 CXX = clang++
 

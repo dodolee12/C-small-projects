@@ -1,4 +1,3 @@
-//Edward Lee edl6zpg 11/16/2020 8puzzle.cpp
 
 #include "8puzzle.h"
 

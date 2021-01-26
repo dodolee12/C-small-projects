@@ -1,7 +1,4 @@
-//Edward Lee edl6zpg inlab-skeleton.cpp 11/9/2020
-// This program is the skeleton code for the lab 10 in-lab.
-// It uses C++ streams for the file input,
-// and just prints out the data when read in from the file.
+
 
 #include <iostream>
 #include <fstream>

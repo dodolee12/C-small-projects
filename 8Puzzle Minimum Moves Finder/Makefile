@@ -1,4 +1,3 @@
-#Edward Lee edl6zpg Makefile 11/16/2020
 CXX = clang++
 
 CXXFLAGS = -Wall -g -O2

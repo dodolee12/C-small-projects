@@ -1,4 +1,3 @@
-//Edward Lee edl6zpg 11/7/2020 huffmanenc.cpp
 
 #include "heap.h"
 #include "HuffmanNode.h"
